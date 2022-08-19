@@ -6,7 +6,7 @@ async function rand() {
 setTimeout(function () {
     console.log(`EASTER EGG: Macc Es Peruano`);
     lds.remove();  
-    txt.textContent = `Usted es un ${Math.floor(Math.random() * 100)}% Homosexual`
+    txt.textContent = `Usted es  ${Math.floor(Math.random() * 100)}% Gay`
 }, 2000);
 }
 
